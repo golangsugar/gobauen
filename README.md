@@ -1,0 +1,2 @@
+# goko
+Go Scaffold Generator
